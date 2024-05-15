@@ -19,4 +19,4 @@ Title<br>
 Author<br>
 Text<br>
 Lable<br>
-**_Link:_** https://www/kaggle.com/competitions/fake-news <br>
+**_Link:_** https://www.kaggle.com/c/fake-news/data <br>
